@@ -54,6 +54,10 @@ body {
     box-sizing: border-box;
 }
 
+.total-section span {
+    font-weight: bold;
+}
+
 .total-section .color {
     display: flex;
 }
